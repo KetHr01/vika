@@ -1,0 +1,77 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: yellow;
+    text-align: center;
+    padding: 25px 0px;
+}
+
+header a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0px 15px;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+
+h2{
+    font-size: 40px;
+    text-align: center;
+    background-color: yellow;
+}
+.text{
+    width: 250px;
+}   
+
+.title{
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    background-color: rgb(94, 94, 246);
+    padding: 10px;
+    border-radius: 10px;
+}
+.top{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.top p {
+    width: 350px;
+}
+
+.pizza{
+    background-color: #5c5af2;
+    padding: 10px;
+    margin: 10px;
+}
+
+.p1{
+    height: 150px;
+    width: 150px;
+    border-radius: 80px ;
+}
+
+.p1:hover{
+    transition: ease-in 1s;
+    height: 200px;
+    width: 200px;
+}
+
+h3{
+   background-color: blueviolet; 
+}
+
+.aaa{
+    background-color: cyan;
+}
